@@ -7,7 +7,7 @@ Na dzien:<br/>
 <img src="/img/dzien.png" width="350" alt=dzien>
 <p>Program wykożystuje biblioteki swing,atw i geom by narysować rysunek. Jest on animowany jako przejście z nocy na dzień</p>
 
-<h3>English Version</h3>.
+<h3>English Version</h3>
 <h2>Drawing for Laboratories of Graphics and Human-Computer Communication</h2>
 <p>The picture shows a landscape that changes from night to day.
 </p><br/>
